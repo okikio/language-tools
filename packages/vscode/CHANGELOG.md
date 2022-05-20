@@ -1,5 +1,11 @@
 # astro-vscode
 
+## 0.19.1
+
+### Patch Changes
+
+- fec2817: Improved syntax highlighting, auto-indentation and auto-closing
+
 ## 0.19.0
 
 ### Minor Changes
